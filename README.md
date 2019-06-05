@@ -1,4 +1,4 @@
-[こちら](https://discord.gg/Rngz5k)からDiscordグループに参加してください。
+[こちら](https://discord.gg/43sB9h)からDiscordグループに参加してください。
 
 # セットアップ
 1. parityのインストール
